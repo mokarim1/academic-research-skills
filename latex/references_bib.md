@@ -1,4 +1,3 @@
-```bibtex
 % Bibliographic metadata transcribed from the supplied Word document.
 % Chicago formatting is applied automatically by biblatex-chicago.
 
@@ -380,4 +379,3 @@
 	institution  = {European Investment Bank},
 	url          = {https://www.eib.org/files/publications/20250193-040526-financial-report-2025-en.pdf}
 }
-```

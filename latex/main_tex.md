@@ -1,4 +1,3 @@
-```latex
 % !TeX program = pdflatex
 % !BIB program = biber
 
@@ -548,4 +547,3 @@ url=true
 	]
 	
 \end{document}
-```
