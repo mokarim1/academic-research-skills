@@ -2,8 +2,7 @@
 % Chicago formatting is applied automatically by biblatex-chicago.
 
 @article{bateman2024,
-	author       = {Bateman, Will and van Klooster, Jens},
-	options      = {useprefix=true},
+	author       = {Bateman, Will and {van 't Klooster}, Jens},
 	date         = {2024},
 	title        = {The Dysfunctional Taboo: Monetary Financing at the
 	Bank of England, the Federal Reserve, and the
@@ -299,8 +298,7 @@
 }
 
 @article{vantklooster2022,
-	author       = {van Klooster, Jens},
-	options      = {useprefix=true},
+	author       = {{van 't Klooster}, Jens},
 	date         = {2022},
 	title        = {Technocratic Keynesianism:
 	A Paradigm Shift without Legislative Change},
@@ -325,7 +323,7 @@
 	author       = {Yiangou, Jonathan and O'Keeffe, Mícheál
 	and Glöckler, Gabriel},
 	date         = {2013},
-	title        = {'Tough Love': How the {ECB}'s Monetary Financing
+	title        = {\mkbibquote{Tough Love}: How the {ECB}'s Monetary Financing
 	Prohibition Pushes Deeper Euro Area Integration},
 	journaltitle = {Journal of European Integration},
 	volume       = {35},

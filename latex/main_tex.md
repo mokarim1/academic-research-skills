@@ -19,18 +19,23 @@ includefoot
 \usepackage{setspace}
 \usepackage{textcomp}
 \usepackage{enumitem}
-\usepackage{csquotes}
+\usepackage[style=american]{csquotes}
 \usepackage{xurl}
 
 % Chicago author-date citations
 \usepackage[
 authordate,
 backend=biber,
+dashed=false,
 isbn=false,
 doi=true,
 url=true
 ]{biblatex-chicago}
 \addbibresource{references.bib}
+\biburlbigskip=0mu
+\biburlnumskip=0mu
+\biburlucskip=0mu
+\biburllcskip=0mu
 
 \usepackage[hidelinks]{hyperref}
 
@@ -149,7 +154,7 @@ url=true
 	reforms, and demanded the Fiscal Compact in return for access to the
 	funds \parencite{donnelly2021}. More far-reaching proposals for permanent
 	common debt and generalised grants were not adopted, even during the
-	Covid-19 crisis, although NextGenerationEU introduced temporary common
+	COVID-19 crisis, although NextGenerationEU introduced temporary common
 	borrowing and grants \parencite{howarthquaglia2021}. Some national
 	parliaments gained a say over each decision on financial assistance,
 	which changed the bargaining between governments
@@ -479,7 +484,7 @@ url=true
 	changes in EIB financing opportunities to their uptake by national
 	governments.
 	
-	\subsection{How I would research it}
+	\subsection{Research design for the case}
 	
 	\begin{itemize}
 		\item \textbf{Country-year comparison:}
